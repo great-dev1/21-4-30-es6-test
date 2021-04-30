@@ -1,0 +1,2 @@
+- Symbol is a primitive data type of JavaScript, along with string, number, boolean, null and undefined. It was introduced in ECMAScript 2015(ES6). It’s a very peculiar data type. Once you create a symbol, its value is kept private and for internal use.
+- Symbols are often used to identify object properties. Often to avoid name clashing between properties, since no symbol is equal to another. Or to add properties that the user cannot overwrite, intentionally or without realizing.
